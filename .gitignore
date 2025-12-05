@@ -1,0 +1,30 @@
+# Xcode
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Build artifacts
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# AppCode
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# VS Code
+.vscode/
